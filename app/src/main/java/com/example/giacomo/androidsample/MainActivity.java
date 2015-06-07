@@ -8,7 +8,6 @@ import android.view.MenuItem;
 
 public class MainActivity extends Activity {
 
-    //commento per Main Activity
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
